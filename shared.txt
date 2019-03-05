@@ -1,13 +1,11 @@
 Shared between us
 
-doaa:first test 
-
-
-hussein typed
-
+doaa: first test
+hussein: typed
 fayez: hi
 roua: hello freinds
-maysona hello
+maysona: hello
+fadi: hello
 
 
 Added here
